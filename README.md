@@ -2,7 +2,7 @@
 
 **Company:** Vadhiyar Seeds Pvt. Ltd.
 **Role:** App Developer Intern
-**Duration:** [Start Date] – [End Date]
+**Duration:** June – August
 
 > **Note:** As the sole developer on this project, I was responsible for the entire lifecycle, from concept and architecture to development, deployment, and submission. The source code is proprietary.
 
@@ -95,7 +95,5 @@ The system is designed with a modern, decoupled architecture for scalability and
 ---
 
 ### 📜 Verification & Accolades
-
-*(If you have a Letter of Recommendation or Certificate for this internship, add it here just like you did for the other one. This adds immense credibility.)*
 
 * 📄 **[View Letter of Recommendation & Completion Certificate]https://drive.google.com/drive/folders/1wTOjpYTKEtlUQJSTXKM4UR9hRaGGKp25?usp=sharing**
