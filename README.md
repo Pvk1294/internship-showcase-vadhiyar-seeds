@@ -41,6 +41,7 @@ As the primary developer, I engineered the entire system, including:
 The application features a dual-interface design for both Distributors and Administrators.
 
 #### Distributor-Facing Features (React Native App):
+
 * **Secure Onboarding:** Streamlined sign-up with an admin approval workflow.
 * **QR Code Scanning:** Instantly scan unique product QR codes to earn loyalty points.
 * **Points Ledger & History:** A detailed transaction history to track points earned and redeemed.
@@ -48,6 +49,7 @@ The application features a dual-interface design for both Distributors and Admin
 * **Reward Redemption:** An in-app catalogue to browse and redeem points for rewards.
 
 #### Admin Panel Features (Integrated):
+
 * **Distributor Management:** A dashboard to view, approve, reject, or suspend distributor accounts.
 * **Bulk QR Code Generation:** A powerful tool for generating and managing large batches of unique, secure QR codes.
 * **Advanced Analytics:** A dashboard providing insights into user activity and redemption rates.
@@ -63,7 +65,7 @@ The system is designed with a modern, decoupled architecture for scalability and
 +---------------------------+       +---------------------------------+       +--------------------------+
 |                           |       |                                 |       |                          |
 |   React Native Mobile App |------>|   Google Cloud Load Balancer    |------>|   Node.js/Express Backend|
-|   (iOS & Android)         |       |   (SSL Termination)             |       |   (GCP Compute Engine)   |
+|      (iOS & Android)      |       |       (SSL Termination)         |       |   (GCP Compute Engine)   |
 |                           |       |                                 |       |                          |
 +---------------------------+       +---------------------------------+       +-------------+------------+
                                                                                               |
@@ -72,10 +74,11 @@ The system is designed with a modern, decoupled architecture for scalability and
                                                                                     +---------+----------+
                                                                                     |                    |
                                                                                     |   PostgreSQL DB    |
-                                                                                    |   (Cloud SQL)      |
+                                                                                    |     (Cloud SQL)    |
                                                                                     |                    |
                                                                                     +--------------------+
 
+```
 ---
 
 ### 💻 Technology Stack
@@ -95,4 +98,4 @@ The system is designed with a modern, decoupled architecture for scalability and
 
 *(If you have a Letter of Recommendation or Certificate for this internship, add it here just like you did for the other one. This adds immense credibility.)*
 
-* 📄 **[View Letter of Recommendation & Completion Certificate](Your-Google-Doc-Link-Here)**
+* 📄 **[View Letter of Recommendation & Completion Certificate]https://drive.google.com/drive/folders/1wTOjpYTKEtlUQJSTXKM4UR9hRaGGKp25?usp=sharing**
