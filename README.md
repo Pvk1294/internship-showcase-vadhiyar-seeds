@@ -12,7 +12,7 @@
 
 The application is feature-complete and the backend is live on its cloud infrastructure. The React Native mobile app has been submitted to the Google Play Store and is currently under review.
 
-➡️ **[Link to Google Play Store Listing](Your-Play-Store-Link-Here)** *(Once it's live, update this link!)*
+➡️ **[Link to Google Play Store Listing](Your-Play-Store-Link-Here)** 
 
 ---
 
